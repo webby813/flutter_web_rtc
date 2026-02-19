@@ -51,6 +51,7 @@ app.*.map.json
 **/google-services.json
 **/GoogleService-Info.plist
 lib/firebase_options.dart
+firebase.json
 **/serviceAccountKey*.json
 **/.env
 **/.env.*
